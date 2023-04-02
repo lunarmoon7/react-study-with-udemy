@@ -1,4 +1,5 @@
 # react-study-with-udmey
+### udemy 리액트 강의에서 학습한 코드 섹션별 정리
 > cf. React 완벽 가이드 with Redux, Next.js, TypeScript
 
 ## Index
